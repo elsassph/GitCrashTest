@@ -8,7 +8,7 @@
 	
 	/**
 	 * ...
-	 * @author Philippe
+	 * @author Philippe / Proximity BBDO
 	 */
 	public class Preloader extends MovieClip 
 	{
