@@ -47,6 +47,7 @@
   <!-- SWC Libraries -->
   <libraryPaths>
     <element path="lib\map_1_8c.swc" />
+    <element path="lib\map_flex_1_8c.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
