@@ -16,7 +16,7 @@
 	
 	/**
 	 * ...
-	 * @author Philippe
+	 * @author Philippe.me
 	 */
 	public class Main extends Sprite 
 	{
