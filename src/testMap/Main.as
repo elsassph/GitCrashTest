@@ -15,7 +15,7 @@
 	import flash.net.URLVariables;
 	
 	/**
-	 * ...
+	 * Test project to see how GIT/SVN compare
 	 * @author Philippe.me
 	 */
 	public class Main extends Sprite 
